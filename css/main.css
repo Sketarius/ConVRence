@@ -1,0 +1,80 @@
+
+html { 
+  background: url(../assets/conv_bk.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  color: #ffffff;
+}
+
+#conv_title {	
+	margin-top: 100px;
+	margin-right: auto;
+	margin-left: auto;
+	width: 874px;
+	font-size: 3em;				
+}
+
+#conv_menu {
+	background: url(../assets/conv_login_back.png);
+	margin-right: auto;
+	margin-left: auto;
+	width: 800px;
+	border-radius: 10px;
+	padding: 10px;
+	text-align: center;
+}
+
+#conv_login {
+	padding: 40px;
+	background: url(../assets/conv_login_back.png);
+	margin-top: 30px;
+	margin-right: auto;
+	margin-left: auto;
+	width: 300px;
+}
+
+#conv_dashboard {
+	background: url(../assets/conv_login_back.png);
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 20px;
+	width: 900px;
+	
+	border-radius: 10px;
+	padding-top: 3px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 20px;
+}
+
+.center {
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+}
+
+.left {
+	float: left;
+}
+
+.right {
+	float: right;
+}
+
+a:link {
+	color: #cd77ff;
+}
+
+a:visited {
+	color: #cd77ff;
+}
+
+a:active {
+	color: #ffffff;
+}
+
+a:hover {
+	color: #ffffff;
+}
